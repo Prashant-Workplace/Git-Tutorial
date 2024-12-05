@@ -1,5 +1,5 @@
 # Git-Tutorial
-Git is a distributed version control system used to track changes in files, typically in software development projects. It allows multiple people to work on the same project simultaneously without interfering with each other's work. Git helps in managing different versions of a project by enabling users to:
+Git is a distributed version control system used to track changes in files, typically in software development projects. <> It allows multiple people to work on the same project simultaneously without interfering with each other's work. Git helps in managing different versions of a project by enabling users to:
 
 Track changes: Git keeps a history of changes made to files, allowing users to revert to previous versions or compare changes over time.
 Collaborate: Multiple people can work on the same project. Git manages and merges their changes efficiently.
